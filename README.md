@@ -1,6 +1,6 @@
 ### 👨‍💻 Hello! I'm Ben, I enjoy writing code!
 
-- ❤ Go, I ❤️ Data, HTML, CSS, Python, JS, Node (more...)
+- I ❤️ Data, Cloud, AI, HTML, CSS, Python, JS, Node, PHP, .Net, SQL, Spark (more...)
 - ❤ Also 🐶 🎲 🏃‍ 💻  🎶 👨🏻‍🍼
 - 💬 Youtube - https://www.youtube.com/@jganggini
 - 💬 Linkedin - https://pe.linkedin.com/in/jganggini
